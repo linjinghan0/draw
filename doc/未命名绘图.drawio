@@ -142,7 +142,7 @@
           <mxGeometry height="70" width="160" x="2106.5" y="197.25" as="geometry" />
         </mxCell>
         <mxCell id="eaAdUz3y3PHlHy5Ffn2P-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#999999;align=left;verticalAlign=top;spacingLeft=8;spacingTop=6;fontSize=11;" value="&lt;b&gt;归口六口 · 编号=时序&lt;/b&gt;&lt;div&gt;启动A · 一次性准备&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;供给B · P节点算KV&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;传输F · 跨机读线程（一趟）&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;&lt;b&gt;每步循环：&lt;/b&gt;&lt;/div&gt;&lt;div&gt;簿记C · D机CPU账本&lt;/div&gt;&lt;div&gt;⇅&lt;/div&gt;&lt;div&gt;计算D · NPU算子&lt;/div&gt;&lt;div&gt;↓&lt;/div&gt;&lt;div&gt;收尾E · 请求结束清场&lt;/div&gt;" vertex="1">
-          <mxGeometry height="207.75" width="158" x="1290" y="54.5" as="geometry" />
+          <mxGeometry height="207.75" width="158" x="1389" y="285" as="geometry" />
         </mxCell>
         <mxCell id="eaAdUz3y3PHlHy5Ffn2P-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;b&gt;【P 节点】&lt;/b&gt;" vertex="1">
           <mxGeometry height="20" width="80" x="1540" y="10.5" as="geometry" />
